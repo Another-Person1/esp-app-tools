@@ -66,4 +66,4 @@ Example manifest:
 
 Run `script/develop`. This starts a server. Open it on http://localhost:5001.
 
-[![ESPHome - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/esphome.png)](https://www.openhomefoundation.org/)
+Not affiliated with ESPHome.
