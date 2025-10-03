@@ -1,7 +1,6 @@
-# ESP Web Tools
+# ESP App Tools
 
-Allow flashing ESPHome or other ESP-based firmwares via the browser. Will automatically detect the board type and select a supported firmware. [See website for full documentation.](https://esphome.github.io/esp-web-tools/)
-
+Allow flashing ESPHome or other ESP-based firmwares via a user-friendly desktop app. Based on [ESP Web Tools]([url](https://esphome.github.io/esp-web-tools/)) by [ESPHome]([url](https://esphome.io/)). Will automatically detect the board type and select a supported firmware.
 ```html
 <esp-web-install-button
   manifest="firmware_esphome/manifest.json"
@@ -67,4 +66,4 @@ Example manifest:
 
 Run `script/develop`. This starts a server. Open it on http://localhost:5001.
 
-[![ESPHome - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/esphome.png)](https://www.openhomefoundation.org/)
+Not affiliated with ESPHome.
